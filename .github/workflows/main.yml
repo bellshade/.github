@@ -38,8 +38,28 @@ jobs:
           # setting untuk tampilkan jenis-jenis dari bahasa
           # pemograman
           plugin_languages: yes
+          # menampilkan detail
+          plugin_languages_details: percentage
+          # membuat threshold bahasa
+          plugin_languages_threshold: 2%
           # membuat limit
           plugin_languages_limit: 15
           plugin_languages_sections: most-used, recently-used
           plugin_languages_recent_load: 500
+          # membuat depth
+          # load yang sudah di commit
+          plugin_languages_recent_days: 7
+
+
+          # line kode yang telah dirubah
+          plugin_lines: yes
+          
+          # aktifitas dari bellshade
+          plugin_activity: yes
+          # limit dari aktifitas untuk ditampilkan
+          plugin_activity_limit: 3
+          plugin_activity_filter: all
+
+          # mengatur padding
+          config_padding: 0, 8 + 1%
           
