@@ -39,7 +39,7 @@ jobs:
           # pemograman
           plugin_languages: yes
           # membuat limit
-          plugin_languages: 15
+          plugin_languages_limit: 15
           plugin_languages_sections: most-used, recently-used
           plugin_languages_recent_load: 500
           
