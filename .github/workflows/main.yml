@@ -46,18 +46,20 @@ jobs:
           plugin_languages_limit: 15
           plugin_languages_sections: most-used, recently-used
           plugin_languages_recent_load: 500
+          plugin_languages_indepth: no
           # membuat depth
           # load yang sudah di commit
           plugin_languages_recent_days: 7
 
 
           # line kode yang telah dirubah
-          plugin_lines: yes
+          # plugin_lines: yes
           
           # aktifitas dari bellshade
           plugin_activity: yes
           # limit dari aktifitas untuk ditampilkan
           plugin_activity_limit: 3
+          plugin_activity_days: 14
           plugin_activity_filter: all
 
           # mengatur padding
