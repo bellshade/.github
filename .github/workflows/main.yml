@@ -1,0 +1,45 @@
+name: Metrics
+on:
+  # update per jam
+  schedule: [{cron: "0 * * * *"}]
+  # workflow update tiap jam
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: tampilkan_informasi_1
+        uses: lowlighter/metrics@latest
+        with:
+          # pakai token
+          token: ${{ secrets.METRICS }}
+          user: bellshade
+          
+          # set template
+          template: classic
+
+          # base template
+          base: activity, community, repositories, metadata
+
+          # setting waktu
+          config_timezone: Asia/Jakarta
+          
+          # filename ketika sudah di render
+          filename: informasi1.svg
+
+          # seting batch dari repositori
+          repositories_batch: 7
+          
+          # setting limit repositori
+          # untuk mencegah timout dari api official github
+          repositories: 100
+          
+          # setting untuk tampilkan jenis-jenis dari bahasa
+          # pemograman
+          plugin_languages: yes
+          # membuat limit
+          plugin_languages: 15
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_load: 500
+          
