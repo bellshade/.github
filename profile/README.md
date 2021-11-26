@@ -9,3 +9,5 @@
 
 ## Tentang Bellshade
 Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_" yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
+
+![informasi_metrics](https://raw.githubusercontent.com/bellshade/.github/a2065a790e352846fd4d1feda67ca32cdf755db6/informasi1.svg)
