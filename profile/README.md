@@ -1,12 +1,11 @@
-## Hi there 👋
+<p align="center">
+    <!-- badge koding assembly-->
+    <img alt="banner koding" src="../src/banner_koding.png"><br>
+    <!-- badge discord-->
+    <a href="http://discord.gg/S4rrXQU"><img alt="badge discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
+    <!-- baddge sponsor-->
+    <a href="https://saweria.co/bellshade"><img alt="badge sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tentang Bellshade
+Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_" yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
