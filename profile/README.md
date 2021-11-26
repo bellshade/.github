@@ -1,6 +1,6 @@
 <p align="center">
     <!-- badge koding assembly-->
-    <img alt="banner koding" src="src/banner_koding.png"><br>
+    <img alt="banner koding" src="https://github.com/bellshade/.github/blob/main/profile/src/banner_koding.png?raw=true"><br>
     <!-- badge discord-->
     <a href="http://discord.gg/S4rrXQU"><img alt="badge discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
     <!-- baddge sponsor-->
