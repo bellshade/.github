@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="583" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="598" class="">
     <defs>
         <style/>
     </defs>
@@ -1458,13 +1458,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="120.70167886075598" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="120.70167886075598" y="0" width="106.40328985088499" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="227.104968711641" y="0" width="89.22280375499092" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="316.32777246663187" y="0" width="56.8938393508724" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="373.2216118175043" y="0" width="44.39791320445671" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.619525021961" y="0" width="24.10191970452361" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="441.7214447264846" y="0" width="18.278555273515398" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="120.55105442629215" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="120.55105442629215" y="0" width="106.84454555666453" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="227.3955999829567" y="0" width="89.1114620198658" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="316.50706200282247" y="0" width="56.822841147222" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.32990315004446" y="0" width="44.34250875084087" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.6724119008853" y="0" width="24.071842757299255" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="441.74425465818456" y="0" width="18.2557453418154" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1474,7 +1474,7 @@
                       HTML
                     </div>
                             <small>
-                                <div>26.24%</div>
+                                <div>26.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1483,7 +1483,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>19.4%</div>
+                                <div>19.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1492,7 +1492,7 @@
                       PHP
                     </div>
                             <small>
-                                <div>9.65%</div>
+                                <div>9.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1512,7 +1512,7 @@
                       Python
                     </div>
                             <small>
-                                <div>23.13%</div>
+                                <div>23.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1521,7 +1521,7 @@
                       CSS
                     </div>
                             <small>
-                                <div>12.37%</div>
+                                <div>12.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1530,7 +1530,7 @@
                       Java
                     </div>
                             <small>
-                                <div>5.24%</div>
+                                <div>5.23%</div>
                             </small>
                         </div>
                     </section>
@@ -1570,14 +1570,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">bellshade/Python</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#61dfc36</span>
-                                        <span class="message">fix: update path profile information</span>
+                                        <span class="sha">#712e802</span>
+                                        <span class="message">style: format otomatis dengan black dan isort</span>
                                     </div>
                                 </div>
                             </section>
@@ -1589,14 +1589,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">bellshade/Python</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#cb490f3</span>
-                                        <span class="message">Update profile/informasi1.svg - [Skip GitHub Action]</span>
+                                        <span class="sha">#6c22792</span>
+                                        <span class="message">update DIRECTORY.md</span>
                                     </div>
                                 </div>
                             </section>
@@ -1608,14 +1608,20 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
+                      <div class="user">mergify[bot]</div> pushed 1 commit in <span class="repo">bellshade/Python</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#318bcfb</span>
-                                        <span class="message">fix: update testing path</span>
+                                        <span class="sha">#1152d16</span>
+                                        <span class="message">add: menambahkan `hex_to_rgb.py` (#168)
+
+* add: menambahkan `hex_to_rgb.py`
+
+* feat: menambahkan docstring dan doctest
+
+* feat: menambahkan penjelasan alur algoritma</span>
                                     </div>
                                 </div>
                             </section>
@@ -1624,7 +1630,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Nov 2021, 18:40:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 27 Nov 2021, 19:10:23 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
