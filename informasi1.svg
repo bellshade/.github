@@ -1567,11 +1567,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                      <div class="user">hardzal</div> forked <span class="repo">bellshade/Golang</span> to <span class="repo">hardzal/Golang</span>
+                      <div class="user">harmonify</div> opened <span class="issue">#168 add: menambahkan `hex_to_rgb.py`</span>
                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by harmonify in <span class="repo">bellshade/Python</span></div>
+                                    <div>1 file changed <span class="code">++63 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1588,7 +1592,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#46ff2f5</span>
+                                        <span class="sha">#9e0fd7e</span>
                                         <span class="message">Update informasi1.svg - [Skip GitHub Action]</span>
                                     </div>
                                 </div>
@@ -1598,15 +1602,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="content">
-                      <div class="user">MZYXn</div> opened <span class="issue">#225 add: menambahkan materi CSS baru 008 CSS Borders</span>
+                      <div class="user">hardzal</div> forked <span class="repo">bellshade/Golang</span> to <span class="repo">hardzal/Golang</span>
                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by MZYXn in <span class="repo">bellshade/HTML-CSS</span></div>
-                                    <div>1 file changed <span class="code">++84 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1614,7 +1614,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Nov 2021, 13:08:40 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 27 Nov 2021, 14:07:31 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
