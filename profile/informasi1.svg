@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="583" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="598" class="">
     <defs>
         <style/>
     </defs>
@@ -1458,13 +1458,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="120.49294688596353" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="120.49294688596353" y="0" width="106.79304477328793" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="227.28599165925147" y="0" width="89.06850886696552" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="316.35450052621695" y="0" width="56.79545162707833" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="373.1499521532953" y="0" width="44.54286232344631" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.6928144767416" y="0" width="24.060239743286136" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="441.7530542200277" y="0" width="18.246945779972265" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="120.48937047478137" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="120.48937047478137" y="0" width="106.80352848488212" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="227.29289895966346" y="0" width="89.06586518018283" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="316.3587641398463" y="0" width="56.79376585298496" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.15252999283126" y="0" width="44.541540224559895" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.6940702173912" y="0" width="24.059525599324296" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="441.75359581671546" y="0" width="18.246404183284543" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1541,7 +1541,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 0 edited files from 0 commits over last 2 days
+            estimation from 0 edited files from 0 commits over last 3 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1570,13 +1570,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/Python</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6cc9f68</span>
+                                        <span class="message">fix: memperbaiki error pytest
+
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#1ebf097</span>
+                                        <span class="sha">#a598099</span>
                                         <span class="message">Update profile/informasi1.svg - [Skip GitHub Action]</span>
                                     </div>
                                 </div>
@@ -1589,33 +1610,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#dddbd08</span>
-                                        <span class="message">Create README.md</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/.github</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#abb65de</span>
-                                        <span class="message">docs: menambahkan komentar</span>
+                                        <span class="sha">#1ebf097</span>
+                                        <span class="message">Update profile/informasi1.svg - [Skip GitHub Action]</span>
                                     </div>
                                 </div>
                             </section>
@@ -1624,7 +1626,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Nov 2021, 23:39:04 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Nov 2021, 00:13:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
