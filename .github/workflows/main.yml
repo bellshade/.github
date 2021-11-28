@@ -26,7 +26,7 @@ jobs:
           config_timezone: Asia/Jakarta
           
           # filename ketika sudah di render
-          filename: profile/informasi1.svg
+          filename: profile/informasi1.png
 
           # seting batch dari repositori
           repositories_batch: 7
