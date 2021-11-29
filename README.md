@@ -1,2 +1,3 @@
-# .github
-repositori untuk profile dari bellshade
+# informasi statistik dari bellshade
+
+![informasi](profile/informasi1.svg)
