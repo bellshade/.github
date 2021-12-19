@@ -60,7 +60,7 @@ jobs:
           # aktifitas dari bellshade
           plugin_activity: yes
           # limit dari aktifitas untuk ditampilkan
-          plugin_activity_limit: 7
+          plugin_activity_limit: 20
           plugin_activity_days: 14
           plugin_activity_filter: all
 
