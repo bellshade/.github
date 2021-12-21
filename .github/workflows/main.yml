@@ -43,7 +43,8 @@ jobs:
           # membuat threshold bahasa
           plugin_languages_threshold: 2%
           # repo yng di skip untuk metric
-          plugin_languages_skipped: .github
+          # plugin_languages_skipped: .github
+          plugin_activity_skipped: .github
           # membuat limit
           plugin_languages_limit: 15
           plugin_languages_sections: most-used, recently-used
