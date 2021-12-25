@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1812" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1748" class="">
     <defs>
         <style/>
     </defs>
@@ -1458,13 +1458,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="120.18981989979387" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="120.18981989979387" y="0" width="106.63711237831576" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="226.82693227810964" y="0" width="89.17506582609873" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="316.0019981042083" y="0" width="57.942710982050166" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="373.9447090862585" y="0" width="45.45585965123452" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="419.4005687374931" y="0" width="23.58061477814724" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.9811835156403" y="0" width="17.01881648435972" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="120.18396106053237" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="120.18396106053237" y="0" width="106.63191418681123" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="226.8158752473436" y="0" width="89.19314226289917" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="316.00901751024276" y="0" width="57.93988647469754" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.9489039849403" y="0" width="45.45364383482502" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="419.40254781976535" y="0" width="23.57946530449142" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="442.98201312425675" y="0" width="17.017986875743237" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1563,6 +1563,57 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      <div class="user">reacto11mecha</div> opened <span class="issue">#250 Bug dihalaman preview kode bagian readme</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by reacto11mecha in <span class="repo">bellshade/Javascript</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      <div class="user">reacto11mecha</div> opened <span class="issue">#249 Bug navigasi pada saat menggunakan UI Server</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by reacto11mecha in <span class="repo">bellshade/Javascript</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      <div class="user">reacto11mecha</div> pushed 1 commit in <span class="repo">bellshade/bellshade-server</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a623864</span>
+                                        <span class="message">Memperbarui konfigurasi waktu untuk sebuah data bisa expire</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1837,78 +1888,11 @@ Renovate is disabled due to lack of config. If you wish to reenable it, you can 
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/wpu_bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0da6462</span>
-                                        <span class="message">feat: menambahkan contributing</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">slowy07</div> pushed 1 commit in <span class="repo">bellshade/wpu_bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a833d6d</span>
-                                        <span class="message">fix: update dari git ignore</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">renovate[bot]</div> pushed 3 commits in <span class="repo">bellshade/wpu_bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">renovate/configure</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#96668c7</span>
-                                        <span class="message">Add renovate.json</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#889a197</span>
-                                        <span class="message">Merge pull request #2 from dhafitf/main
-
-feat: rewrite and add filters modules</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#83ea3fe</span>
-                                        <span class="message">feat: rewrite and add filters modules</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 25 Dec 2021, 23:09:59 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 26 Dec 2021, 00:15:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
