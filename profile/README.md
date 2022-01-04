@@ -19,9 +19,9 @@ Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber 
         <p> 
             Kelas terbuka adalah kanal youtube yang memberikan media pembelajaran dasar dari pemograman dasar hingga menengah.
             <br>
-            Owner kelas terbuka: [Faqihza mukkhlis](https://github.com/faqihza)
+            Owner kelas terbuka: <a href="https://github.com/faqihza">Faqihza mukkhlis</a>
             <br>
-            Organisasi (github): [Kelas Terbuka](https://github.com/kelasterbuka) 
+            Organisasi (github): <a href="https://github.com/kelasterbuka">Kelas Terbuka</a>
         </p>
     </li>
 </details>
