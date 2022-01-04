@@ -11,13 +11,17 @@
 Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_" yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
 
 <details>
-<summary><b> bekerja sama dengan</b></summary>
+<summary><b>Bekerja sama dengan</b></summary>
 <br>
 <ul>
     <li>
         <a href="https://www.youtube.com/c/KelasTerbuka">Kelas terbuka</a>
         <p> 
-            kelas terbuka adalah kanal youtube yang memberikan media pembelajaran dasar dari pemograman
+            Kelas terbuka adalah kanal youtube yang memberikan media pembelajaran dasar dari pemograman dasar hingga menengah.
+            <br>
+            Owner kelas terbuka: [Faqihza mukkhlis](https://github.com/faqihza)
+            <br>
+            Organisasi (github): [Kelas Terbuka](https://github.com/kelasterbuka) 
         </p>
     </li>
 </details>
