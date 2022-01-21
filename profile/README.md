@@ -8,20 +8,22 @@
 </p>
 
 ## Tentang Bellshade
-Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_" yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
+Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).
+<br>
+Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_", yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
 
 <details>
 <summary><b>Bekerja sama dengan</b></summary>
 <br>
 <ul>
     <li>
-        <a href="https://www.youtube.com/c/KelasTerbuka">Kelas terbuka</a>
+        <b><a href="https://www.youtube.com/kelasterbuka" target="_blank">Kelas Terbuka</a></b>
         <p> 
-            Kelas terbuka adalah kanal youtube yang memberikan media pembelajaran dasar dari pemograman dasar hingga menengah.
+            <b>Kelas Terbuka</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara             khusus dari dasar hingga menengah.
+            <br><br>
+            Owner Kelas Terbuka: <a href="https://github.com/faqihza" target="_blank">Faqihza Mukhlish</a>
             <br>
-            Owner kelas terbuka: <a href="https://github.com/faqihza">Faqihza mukkhlis</a>
-            <br>
-            Organisasi (github): <a href="https://github.com/kelasterbuka">Kelas Terbuka</a>
+            Organisasi (GitHub): <a href="https://github.com/kelasterbuka" target="_blank">Kelas Terbuka</a>
         </p>
     </li>
 </details>
