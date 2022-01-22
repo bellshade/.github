@@ -1,10 +1,10 @@
 <p align="center">
     <!-- badge koding assembly-->
-    <img alt="banner koding" src="https://github.com/bellshade/.github/blob/main/profile/src/banner_koding.png?raw=true"><br>
+    <img alt="Banner Koding" src="https://github.com/bellshade/.github/blob/main/profile/src/banner_koding.png?raw=true"><br>
     <!-- badge discord-->
-    <a href="http://discord.gg/S4rrXQU"><img alt="badge discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
+    <a href="http://discord.gg/S4rrXQU"><img alt="Badge Discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
     <!-- baddge sponsor-->
-    <a href="https://saweria.co/bellshade"><img alt="badge sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+    <a href="https://saweria.co/bellshade"><img alt="Badge Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </p>
 
 ## Tentang Bellshade
@@ -17,13 +17,13 @@ Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu 
 <br>
 <ul>
     <li>
-        <b><a href="https://www.youtube.com/kelasterbuka" target="_blank">Kelas Terbuka</a></b>
+        <b><a href="https://www.youtube.com/kelasterbuka">Kelas Terbuka</a></b>
         <p> 
             <b>Kelas Terbuka</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara             khusus dari dasar hingga menengah.
-            <br><br>
-            Owner Kelas Terbuka: <a href="https://github.com/faqihza" target="_blank">Faqihza Mukhlish</a>
             <br>
-            Organisasi (GitHub): <a href="https://github.com/kelasterbuka" target="_blank">Kelas Terbuka</a>
+            Owner Kelas Terbuka: <a href="https://github.com/faqihza">Faqihza Mukhlish</a>
+            <br>
+            Organisasi (GitHub): <a href="https://github.com/kelasterbuka">Kelas Terbuka</a>
         </p>
     </li>
 </details>
