@@ -1,27 +1,29 @@
 <p align="center">
     <!-- badge koding assembly-->
-    <img alt="banner koding" src="https://github.com/bellshade/.github/blob/main/profile/src/banner_koding.png?raw=true"><br>
+    <img alt="Banner Koding" src="https://github.com/bellshade/.github/blob/main/profile/src/banner_koding.png?raw=true"><br>
     <!-- badge discord-->
-    <a href="http://discord.gg/S4rrXQU"><img alt="badge discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
+    <a href="http://discord.gg/S4rrXQU"><img alt="Badge Discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
     <!-- baddge sponsor-->
-    <a href="https://saweria.co/bellshade"><img alt="badge sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+    <a href="https://saweria.co/bellshade"><img alt="Badge Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </p>
 
 ## Tentang Bellshade
-Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_" yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
+Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas [Web Programming UNPAS (WPU)](http://discord.gg/S4rrXQU).
+<br>
+Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_", yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi.
 
 <details>
 <summary><b>Bekerja sama dengan</b></summary>
 <br>
 <ul>
     <li>
-        <a href="https://www.youtube.com/c/KelasTerbuka">Kelas terbuka</a>
+        <b><a href="https://www.youtube.com/kelasterbuka">Kelas Terbuka</a></b>
         <p> 
-            Kelas terbuka adalah kanal youtube yang memberikan media pembelajaran dasar dari pemograman dasar hingga menengah.
+            <b>Kelas Terbuka</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara             khusus dari dasar hingga menengah.
             <br>
-            Owner kelas terbuka: <a href="https://github.com/faqihza">Faqihza mukkhlis</a>
+            Owner Kelas Terbuka: <a href="https://github.com/faqihza">Faqihza Mukhlish</a>
             <br>
-            Organisasi (github): <a href="https://github.com/kelasterbuka">Kelas Terbuka</a>
+            Organisasi (GitHub): <a href="https://github.com/kelasterbuka">Kelas Terbuka</a>
         </p>
     </li>
 </details>
