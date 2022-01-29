@@ -1,7 +1,7 @@
 <p align="center">
     <!-- badge koding assembly-->
-    <!-- <img alt="Banner Koding" src="https://github.com/bellshade/.github/blob/main/profile/src/cover.png?raw=true"><br> -->
-    <img alt="banner koding" src="src/cover.png">
+    <img alt="Banner Koding" src="https://github.com/bellshade/.github/blob/main/profile/src/cover.png?raw=true" height="400" width="900"><br>
+<!--     <img alt="banner koding" src="src/cover.png"> -->
     <!-- badge discord-->
     <a href="http://discord.gg/S4rrXQU"><img alt="Badge Discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
     <!-- baddge sponsor-->
