@@ -67,4 +67,27 @@ jobs:
 
           # mengatur padding
           config_padding: 0, 8 + 1%
+
+  contribution-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: display informasi aktifitas
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS }}
+          user: bellshade
+
+          template: classic
+          base: activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          filename: profile/activity.svg
+          repositories_batch: 7
+          repositories: 100
+
+          plugin_activity: yes
+          plugin_activity_limit: 50
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          
+          config_padding: 0, 8 + 1%
           
