@@ -1,3 +1,3 @@
 # achievements bellshade
 
-![informasi](profile/activity.svg)
+![informasi](profile/achievement.svg)
