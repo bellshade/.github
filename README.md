@@ -1,3 +1,3 @@
 # informasi statistik dari bellshade
 
-![informasi](profile/informasi1.svg)
+![informasi](profile/achievement.svg)
