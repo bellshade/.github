@@ -157,7 +157,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last 5 days</small>
+                <small>estimation from 0 edited files from 0 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -542,7 +542,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 11 Feb 2022, 10:07:21 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 11 Feb 2022, 11:09:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
