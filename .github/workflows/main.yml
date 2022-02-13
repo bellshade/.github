@@ -88,6 +88,7 @@ jobs:
           plugin_activity_limit: 50
           plugin_activity_days: 14
           plugin_activity_filter: all
+          plugin_activity_skip: .github
           
           config_padding: 0, 8 + 1%
   
