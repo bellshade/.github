@@ -203,7 +203,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.02020202020202 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="73.58585858585859 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
@@ -223,10 +223,10 @@
                                     <span class="prefix"></span>
                                     Organization
                                     <div class="value-wrapper">
-                                        <div class="value">47</div>
+                                        <div class="value">48</div>
                                     </div>
                                 </div>
-                                <div class="text">Has 47 members</div>
+                                <div class="text">Has 48 members</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -311,7 +311,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 166k out of 282m repositories</span>
+                                    <span class="gh">ranked 167k out of 282m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">170</div>
                                     </div>
@@ -476,7 +476,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 14 Feb 2022, 18:06:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 14 Feb 2022, 19:11:52 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
