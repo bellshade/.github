@@ -10,7 +10,7 @@ on:
   - cron: "* 2 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
 
 jobs:
-  auto_commit:
+  fetch-bellshadebot:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2      
