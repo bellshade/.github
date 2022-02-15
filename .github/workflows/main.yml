@@ -121,7 +121,7 @@ jobs:
       - name: update fetch data
         run: |
           git config user.name 'bellshadebot'
-          git config user.mail 'bellsha07@gmail.com'
+          git config user.mail 'bellshade07@gmail.com'
           git add -A
           timestamp=$(date '+%F %H:%M:%S %Z')
           git commit -am "fetch ${timestamp}"
