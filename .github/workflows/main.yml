@@ -95,8 +95,21 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_skip: .github
           
-          config_padding: 0, 8 + 1%
-  
+          config_padding: 0, 8 + 1%echo ::set-output name=modified::$(if git diff-index --quiet HEAD --; then echo "tidak"; else echo "ya"; fi)
+          
+      - name: cek modifikasi file
+        id: git-check
+        run: echo ::set-output name=modified::$(if git diff-index --quiet HEAD --; then echo "tidak"; else echo "ya"; fi)
+      - name: Push perubahan
+        if: steps.git-check.outputs.modified == 'ya' && github.event_name == 'push'
+        run: |
+          git config --global user.name 'bellshadebot'
+          git config --global user.email 'bellshade07@gmail.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull
+          git commit -am "feat: update github activity"
+          git push
+          
   achievement-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -116,6 +129,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+
           
           config_padding: 0, 8 + 1%
+   
   
