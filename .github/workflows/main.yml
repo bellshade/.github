@@ -9,11 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      
       - name: tampilkan_informasi_1
         uses: lowlighter/metrics@latest
         with:
@@ -73,24 +68,6 @@ jobs:
           # mengatur padding
           config_padding: 0, 8 + 1%
           
-      - name: modifikasi update file
-        run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > LAST_UPDATED
-      - name: commit perubahan
-        run: |
-          git config --local user.email "bellshade07@gmail.com"
-          git config --local user.name "bellshadebot"
-          git add -A
-          git commit -m "feat: update informasi bellshade"
-          
-      - name: push
-        uses: ad-m/github-push-action@v0.5.0
-        with:
-          force: true
-          directory: '.'
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
   contribution-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -143,31 +120,33 @@ jobs:
 
           
           config_padding: 0, 8 + 1%
-          
-  update-bot-fetch:
+
+  bot-fetch-dat:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2      
+      - uses: actions/checkout@v2
         with:
-         persist-credentials: false
-         fetch-depth: 0
-
-      - name: Modify last update
+          persist-credentials: false
+          fetch-depth: 0
+      - name: modifikasi file
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
-          
-      - name: Commit changes
+      
+      - name: commit perubahan
         run: |
           git config --local user.email "bellshade07@gmail.com"
           git config --local user.name "bellshadebot"
           git add -A
-          git commit -m "feat: updaate fetch"
-          
-      - name: GitHub Push
+          git commit -m "feat: update fetch"
+      
+      - name: push github
         uses: ad-m/github-push-action@v0.5.0
         with:
           force: true
           directory: "."
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          
+
   
