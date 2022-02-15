@@ -1,3 +1,2 @@
 # informasi statistik dari bellshade
-
-![informasi](profile/informasi1.svg)
+![Metrics](https://metrics.lecoq.io/bellshade?template=classic&activity=1&achievements=1&activity.limit=5&activity.load=300&activity.days=40&activity.visibility=all&activity.timestamps=false&activity.skipped=.github&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)
