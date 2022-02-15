@@ -99,7 +99,13 @@ jobs:
           git add -A
           timestamp=$(date '+%F %H:%M:%S %Z')
           git commit -m "update ${timestamp}" || exit 0
-          git push
+          
+      - name: push contrib
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
   
   achievement-metrics:
     runs-on: ubuntu-latest
