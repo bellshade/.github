@@ -91,6 +91,15 @@ jobs:
           plugin_activity_skip: .github
           
           config_padding: 0, 8 + 1%
+          
+      - name: update fetch
+        run: |-
+          git config user.name 'bellshadebot'
+          git config user.email 'bellshade07@gmail.com'
+          git add -A
+          timestamp=$(date '+%F %H:%M:%S %Z')
+          git commit -m "update ${timestamp}" || exit 0
+          git push
   
   achievement-metrics:
     runs-on: ubuntu-latest
@@ -113,18 +122,5 @@ jobs:
           plugin_achievements_threshold: X
           
           config_padding: 0, 8 + 1%
-          
-  setbot-configuration:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: update fetch data
-        run: |
-          git config user.name 'bellshadebot'
-          git config user.mail 'bellshade07@gmail.com'
-          git add -A
-          timestamp=$(date '+%F %H:%M:%S %Z')
-          git commit -am "fetch ${timestamp}"
-          git push
         
   
