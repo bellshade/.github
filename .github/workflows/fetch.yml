@@ -1,33 +1,39 @@
-name: Metrics
+name: fetch bot
+
 on:
-  # update per jam
-  schedule: [{cron: "0 * * * *"}]
-  # workflow update tiap jam
-  workflow_dispatch:
-  push: {branches: ["main", "master"]}
+
+  push:
+    branches:
+      - main
+      
+  schedule:
+  - cron: "* 2 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+
 jobs:
-  bellshadebot-fetch:
+  auto_commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2      
         with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: modifikasi last update dari file
+         persist-credentials: false
+         fetch-depth: 0
+
+      - name: Modify last update
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
-      - name: commit perubahan
+          
+      - name: Commit changes
         run: |
-          git config --global user.email "bellshade07@gmail.com"
-          git config --global user.name "bellshadebot"
+          git config --local user.email "mazipanneh@gmail.com"
+          git config --local user.name "mazipan"
           git add -A
-          timestamp=$(date '+%F %H:%M:%S %Z')
-          git commit -m "Update Data ${timestamp}"
-      - name: github push
+
+          git commit -m "feat: update fetch"
+          
+      - name: GitHub Push
         uses: ad-m/github-push-action@v0.5.0
         with:
           force: true
           directory: "."
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
