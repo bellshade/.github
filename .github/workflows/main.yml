@@ -118,36 +118,4 @@ jobs:
           plugin_achievements_threshold: X
           
           config_padding: 0, 8 + 1%
-          
-  bellshadebot-fetch:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout file dari data
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          feth-depth: 0
-          
-      - name: update data fetch
-        run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > LAST_UPDATED
-          
-      - name: commit check dat
-        run: |
-          git config --global user.name "bellshadebot"
-          git config --global user.mail "bellshade07@gmail.com"
-          git add -A
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          timestamp=$(date '+%F %H:%M:%S %Z')
-          git commit -am "Update Data ${timestamp}"
-          git push
-          
-      - name: github push
-        uses: ad-m/github-push-action@v0.5.0
-        with:
-          force: true
-          directory: "."
-          github_token: ${{ secrets.BELLSHADEBOT }}
-        
   
