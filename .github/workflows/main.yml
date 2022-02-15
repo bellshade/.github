@@ -1,125 +1,125 @@
-name: Metrics
-on:
-  # update per jam
-  schedule: [{cron: "0 * * * *"}]
-  # workflow update tiap jam
-  workflow_dispatch:
-  push: {branches: ["main", "master"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - name: tampilkan_informasi_1
-        uses: lowlighter/metrics@latest
-        with:
-          # pakai token
-          token: ${{ secrets.METRICS }}
-          user: bellshade
+# name: Metrics
+# on:
+#   # update per jam
+#   schedule: [{cron: "0 * * * *"}]
+#   # workflow update tiap jam
+#   workflow_dispatch:
+#   push: {branches: ["main", "master"]}
+# jobs:
+#   github-metrics:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: tampilkan_informasi_1
+#         uses: lowlighter/metrics@latest
+#         with:
+#           # pakai token
+#           token: ${{ secrets.METRICS }}
+#           user: bellshade
           
-          # set template
-          template: classic
+#           # set template
+#           template: classic
 
-          # base template
-          base: activity, community, repositories, metadata
+#           # base template
+#           base: activity, community, repositories, metadata
 
-          # setting waktu
-          config_timezone: Asia/Jakarta
+#           # setting waktu
+#           config_timezone: Asia/Jakarta
           
-          # filename ketika sudah di render
-          filename: profile/informasi1.svg
+#           # filename ketika sudah di render
+#           filename: profile/informasi1.svg
 
-          # seting batch dari repositori
-          repositories_batch: 7
+#           # seting batch dari repositori
+#           repositories_batch: 7
           
-          # setting limit repositori
-          # untuk mencegah timout dari api official github
-          repositories: 100
+#           # setting limit repositori
+#           # untuk mencegah timout dari api official github
+#           repositories: 100
           
-          # setting untuk tampilkan jenis-jenis dari bahasa
-          # pemograman
-          plugin_languages: yes
-          # menampilkan detail
-          plugin_languages_details: percentage
-          # membuat threshold bahasa
-          plugin_languages_threshold: 2%
-          # repo yng di skip untuk metric
-          # plugin_languages_skipped: .github
-          plugin_activity_skipped: .github
-          # membuat limit
-          plugin_languages_limit: 15
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_load: 500
-          plugin_languages_indepth: no
-          # membuat depth
-          # load yang sudah di commit
-          plugin_languages_recent_days: 7
+#           # setting untuk tampilkan jenis-jenis dari bahasa
+#           # pemograman
+#           plugin_languages: yes
+#           # menampilkan detail
+#           plugin_languages_details: percentage
+#           # membuat threshold bahasa
+#           plugin_languages_threshold: 2%
+#           # repo yng di skip untuk metric
+#           # plugin_languages_skipped: .github
+#           plugin_activity_skipped: .github
+#           # membuat limit
+#           plugin_languages_limit: 15
+#           plugin_languages_sections: most-used, recently-used
+#           plugin_languages_recent_load: 500
+#           plugin_languages_indepth: no
+#           # membuat depth
+#           # load yang sudah di commit
+#           plugin_languages_recent_days: 7
 
 
-          # line kode yang telah dirubah
-          # plugin_lines: yes
+#           # line kode yang telah dirubah
+#           # plugin_lines: yes
           
-          # aktifitas dari bellshade
-          plugin_activity: yes
-          # limit dari aktifitas untuk ditampilkan
-          plugin_activity_limit: 20
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+#           # aktifitas dari bellshade
+#           plugin_activity: yes
+#           # limit dari aktifitas untuk ditampilkan
+#           plugin_activity_limit: 20
+#           plugin_activity_days: 14
+#           plugin_activity_filter: all
 
-          # mengatur padding
-          config_padding: 0, 8 + 1%
+#           # mengatur padding
+#           config_padding: 0, 8 + 1%
           
-  contribution-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
+#   contribution-metrics:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#         with:
+#           persist-credentials: false
+#           fetch-depth: 0
           
-      - name: display informasi aktifitas
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS }}
-          user: bellshade
+#       - name: display informasi aktifitas
+#         uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS }}
+#           user: bellshade
 
-          template: classic
-          base: activity, community, repositories, metadata
-          config_timezone: Asia/Jakarta
-          filename: profile/activity.svg
-          repositories_batch: 7
-          repositories: 100
+#           template: classic
+#           base: activity, community, repositories, metadata
+#           config_timezone: Asia/Jakarta
+#           filename: profile/activity.svg
+#           repositories_batch: 7
+#           repositories: 100
 
-          plugin_activity: yes
-          plugin_activity_limit: 50
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_skip: .github
+#           plugin_activity: yes
+#           plugin_activity_limit: 50
+#           plugin_activity_days: 14
+#           plugin_activity_filter: all
+#           plugin_activity_skip: .github
           
-          config_padding: 0, 8 + 1%
-
-          
-  achievement-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - name: display informasi aktifitas
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS }}
-          user: bellshade
-
-          template: classic
-          base: activity, community, repositories, metadata
-          config_timezone: Asia/Jakarta
-          filename: profile/achievement.svg
-          repositories_batch: 7
-          repositories: 100
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+#           config_padding: 0, 8 + 1%
 
           
-          config_padding: 0, 8 + 1%
+#   achievement-metrics:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: display informasi aktifitas
+#         uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS }}
+#           user: bellshade
+
+#           template: classic
+#           base: activity, community, repositories, metadata
+#           config_timezone: Asia/Jakarta
+#           filename: profile/achievement.svg
+#           repositories_batch: 7
+#           repositories: 100
+
+#           plugin_achievements: yes
+#           plugin_achievements_display: compact
+#           plugin_achievements_threshold: X
+
+          
+#           config_padding: 0, 8 + 1%
 
 
           
