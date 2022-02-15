@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="8985" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="8500" class="">
     <defs>
         <style/>
     </defs>
@@ -81,6 +81,48 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">bellshade/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1ddfbd</div>
+                                        <div class="message">Update profile/activity.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">slowy07</div>
+                                        pushed 1 commit in
+                                        <span class="repo">bellshade/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#94155d9</div>
+                                        <div class="message">Update main.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2305,205 +2347,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">bellshadebot</div>
-                                        pushed 54 commits in
-                                        <span class="repo">bellshade/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#34fe838</div>
-                                        <div class="message">Update Data 2022-02-15 12:18:44 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae818e5</div>
-                                        <div class="message">Update Data 2022-02-15 12:18:05 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc5ea3c</div>
-                                        <div class="message">Update Data 2022-02-15 12:17:19 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb9a882</div>
-                                        <div class="message">Update Data 2022-02-15 12:16:52 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51770e7</div>
-                                        <div class="message">Update Data 2022-02-15 12:15:32 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ef57e2</div>
-                                        <div class="message">Update Data 2022-02-15 12:14:50 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#702ca50</div>
-                                        <div class="message">Update Data 2022-02-15 12:14:11 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3990de1</div>
-                                        <div class="message">Update Data 2022-02-15 12:12:56 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#160444d</div>
-                                        <div class="message">Update Data 2022-02-15 12:10:59 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6133efe</div>
-                                        <div class="message">Update Data 2022-02-15 12:09:05 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#700e46e</div>
-                                        <div class="message">Update Data 2022-02-15 12:08:03 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5ee894</div>
-                                        <div class="message">Update Data 2022-02-15 12:06:27 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3126150</div>
-                                        <div class="message">Update Data 2022-02-15 12:05:12 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e070e47</div>
-                                        <div class="message">Update Data 2022-02-15 12:03:51 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#753a390</div>
-                                        <div class="message">Update Data 2022-02-15 12:01:47 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9c7874</div>
-                                        <div class="message">Update Data 2022-02-15 12:00:51 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f405fb3</div>
-                                        <div class="message">Update Data 2022-02-15 12:00:21 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05afd62</div>
-                                        <div class="message">Update Data 2022-02-15 11:59:52 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1754aa9</div>
-                                        <div class="message">Update Data 2022-02-15 11:59:25 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3127765</div>
-                                        <div class="message">Update Data 2022-02-15 11:58:57 UTC</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">bellshadebot</div>
-                                        pushed 53 commits in
-                                        <span class="repo">bellshade/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3e8a373</div>
-                                        <div class="message">Update Data 2022-02-15 12:19:44 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#878977b</div>
-                                        <div class="message">Update Data 2022-02-15 12:19:18 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81374fd</div>
-                                        <div class="message">Update Data 2022-02-15 12:18:37 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6172309</div>
-                                        <div class="message">Update Data 2022-02-15 12:17:20 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#360d77f</div>
-                                        <div class="message">Update Data 2022-02-15 12:16:05 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2005200</div>
-                                        <div class="message">Update Data 2022-02-15 12:15:07 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e21072</div>
-                                        <div class="message">Update Data 2022-02-15 12:14:26 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83c9e88</div>
-                                        <div class="message">Update Data 2022-02-15 12:13:23 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e670dd</div>
-                                        <div class="message">Update Data 2022-02-15 12:12:17 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96b23ed</div>
-                                        <div class="message">Update Data 2022-02-15 12:10:47 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9dfeb3</div>
-                                        <div class="message">Update Data 2022-02-15 12:08:30 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97356f1</div>
-                                        <div class="message">Update Data 2022-02-15 12:07:46 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f78a55</div>
-                                        <div class="message">Update Data 2022-02-15 12:05:48 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fbaf47</div>
-                                        <div class="message">Update Data 2022-02-15 12:04:23 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c051783</div>
-                                        <div class="message">Update Data 2022-02-15 12:02:37 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4710ab6</div>
-                                        <div class="message">Update Data 2022-02-15 12:01:35 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fffa874</div>
-                                        <div class="message">Update Data 2022-02-15 12:00:47 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d86ec7</div>
-                                        <div class="message">Update Data 2022-02-15 12:00:07 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c54379</div>
-                                        <div class="message">Update Data 2022-02-15 11:59:30 UTC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2fdbc8</div>
-                                        <div class="message">Update Data 2022-02-15 11:59:01 UTC</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 15 Feb 2022, 23:27:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 15 Feb 2022, 23:33:57 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
