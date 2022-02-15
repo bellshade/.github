@@ -140,6 +140,7 @@ jobs:
           git add -A
           timestamp=$(date '+%F %H:%M:%S %Z')
           git commit -m "Update Data ${timestamp}" 
+          git push
           
       - name: github push
         uses: ad-m/github-push-action@v0.5.0
