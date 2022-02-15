@@ -9,6 +9,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      
       - name: tampilkan_informasi_1
         uses: lowlighter/metrics@latest
         with:
@@ -68,15 +73,23 @@ jobs:
           # mengatur padding
           config_padding: 0, 8 + 1%
           
-      - name: Push perubahan
+      - name: modifikasi update file
         run: |
-          git config --global user.name 'bellshadebot'
-          git config --global user.email 'bellshade07@gmail.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull
-          timestamp=$(date '+%F %H:%M:%S %Z')
-          git commit -m "Update Data ${timestamp}"
-          git push
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
+      - name: commit perubahan
+        run: |
+          git config --local user.email "bellshade07@gmail.com"
+          git config --local user.name "bellshadebot"
+          git add -A
+          git commit -m "feat: update informasi bellshade"
+          
+      - name: push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          force: true
+          directory: '.'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
   contribution-metrics:
     runs-on: ubuntu-latest
@@ -130,5 +143,6 @@ jobs:
 
           
           config_padding: 0, 8 + 1%
-   
+          
+
   
