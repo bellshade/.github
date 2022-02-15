@@ -1,9 +1,9 @@
 name: git fetch
 
 on:
-  schedul [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
-    push: {branches: ["main", "master"]}
+  push: {branches: ["main", "master"]}
 
 jobs:
   auto_commit:
