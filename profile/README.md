@@ -28,7 +28,7 @@ Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu 
         </p>
         <b><a href="https://www.youtube.com/@arfyslowy">Arfy Slowy</a></b>
         <p> 
-            <b>Arfy Slowy</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara khusus dari dasar hingga menengah.
+            <b>Arfy Slowy</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman dan teknik algoritma serta struktur data dari dasar hingga menengah.
             <br>
             Owner Kelas Terbuka: <a href="https://github.com/slowy07">Arfy Slowy</a>
             <br>
