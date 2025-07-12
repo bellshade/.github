@@ -20,22 +20,20 @@ Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu 
     <li>
         <b><a href="https://www.youtube.com/kelasterbuka">Kelas Terbuka</a></b>
         <p> 
-            <b>Kelas Terbuka</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara             khusus dari dasar hingga menengah.
+            <b>Kelas Terbuka</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara khusus dari dasar hingga menengah.
             <br>
             Owner Kelas Terbuka: <a href="https://github.com/faqihza">Faqihza Mukhlish</a>
             <br>
             Organisasi (GitHub): <a href="https://github.com/kelasterbuka">Kelas Terbuka</a>
         </p>
-    </li>
-</ul>
-</details>
-
-<details>
-<summary><b>Statistik bellshade</b></summary>
-<br>
-<ul>
-    <li>
-        <img src="https://metrics.lecoq.io/bellshade?template=classic&languages=1&achievements=1&activity=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FRecife" alt="bellshade statistic"/>
+        <b><a href="https://www.youtube.com/@arfyslowy">Arfy Slowy</a></b>
+        <p> 
+            <b>Arfy Slowy</b> adalah kanal YouTube yang memberikan media pembelajaran pemrograman secara umum dan teknik komputasi serta pengolahan data secara khusus dari dasar hingga menengah.
+            <br>
+            Owner Kelas Terbuka: <a href="https://github.com/slowy07">Arfy Slowy</a>
+            <br>
+            Komunitas Discord: <a href="https://discord.gg/xkvjwsDrnx">Warga Slowy</a>
+        </p>
     </li>
 </ul>
 </details>
